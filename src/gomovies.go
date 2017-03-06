@@ -1,3 +1,4 @@
+// Go program to read an integer from STDIN and output it to STDOUT
 package main
 
 import (
